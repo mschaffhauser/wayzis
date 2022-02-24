@@ -1,0 +1,27 @@
+{
+  "summoner": {
+    "id": "fbCttUgVK2uu76xHVeNYxn3RDhLenIGglzxm2Mq0dU1JeSE",
+    "accountId": "5HeiuZE37Yv_6q5Kl7wspu-qnct5b5lCwA5o7oflIz9O5A",
+    "puuid": "l42Pz34VHTz6w9hbId_CRNlJoiNS8jKgsTmMt7hlH3EruCYymp8It_eSrPxXtUkhZaYjnOMtygXP2w",
+    "name": "LPA Wayzos",
+    "profileIconId": 4887,
+    "revisionDate": 1645481989000,
+    "summonerLevel": 336
+  },
+  "rank": 
+    {
+      "leagueId": "923c1c97-2a50-4fcf-9368-7552909ab0d7",
+      "queueType": "RANKED_SOLO_5x5",
+      "tier": "GOLD",
+      "rank": "II",
+      "summonerId": "fbCttUgVK2uu76xHVeNYxn3RDhLenIGglzxm2Mq0dU1JeSE",
+      "summonerName": "LPA Wayzos",
+      "leaguePoints": 30,
+      "wins": 22,
+      "losses": 12,
+      "veteran": false,
+      "inactive": false,
+      "hotStreak": false
+    }
+  
+}
