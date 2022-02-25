@@ -4,11 +4,12 @@
 import Rank from './components/Rank.vue'
 import axios from 'axios'
 import usersData from "./../saveData.json";
+import dotenv from 'dotenv'
 import { reactive, ref } from 'vue'
 const rank = usersData.rank;
 const baseURL = "http://localhost:3001/";
 const region = 'euw'
-const api_key = 'RGAPI-49f53b1c-b8cb-4727-aebf-483eb785f233'
+const api_key = import.meta.env.VITE_API_KEY;
 const query = ref('LPA Wayzis')
 
 async function saveData(data, endpoint) {
