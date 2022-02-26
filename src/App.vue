@@ -46,7 +46,6 @@ async function getRank(summonerId) {
 </script>
 
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
   <Rank :data="rank" />
   <form @submit.prevent="changeNome(query)">
     <input v-model="query" />
